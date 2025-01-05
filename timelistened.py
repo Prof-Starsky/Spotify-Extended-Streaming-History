@@ -219,7 +219,7 @@ files_to_process = [
     "Streaming_History_Audio_2023_4.json",
     "Streaming_History_Audio_2023-2024_5.json",
     "Streaming_History_Audio_2024_6.json",
-    "Streaming_History_Audio_2024_7.json"
+    "Streaming_History_Audio_2024-2025_7.json"
 ]
 
 # Process the files and get rankings and yearly stats
